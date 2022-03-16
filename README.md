@@ -14,6 +14,7 @@ When user click the cell, the staff details will be displayed. On the top right 
  
 
 When user click the Rooms Tab bar control, the rooms details will be displayed, and user also can go to the people tab bar control as well.
+
 <img width="198" alt="image" src="https://user-images.githubusercontent.com/100123501/158567089-69ec3c90-4bbc-448b-9570-b14ece89d9c3.png">
 
 
